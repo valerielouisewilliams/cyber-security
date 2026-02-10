@@ -1,4 +1,4 @@
-### Cyber Security notes
+# Cyber Security notes
 
 ## Table of Contents
-* 1. Side Channel Attacks
+### 1. Side Channel Attacks
